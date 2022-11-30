@@ -20,7 +20,7 @@
 
 - 解锁FPS的实现方式：
 
-  - [DGP.Genshin.FPSUnlocking](https://github.com/DGP-Studio/Unlocker)
+  - [Unlocker](https://github.com/DGP-Studio/Unlocker)
 
   - ### Simple Usage
 
